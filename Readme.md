@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Черевков Петр](https://up.htmlacademy.ru/htmlcss/31/user/1799511).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий (sench) Железцов](https://htmlacademy.ru/profile/sench))
 
 ---
 
